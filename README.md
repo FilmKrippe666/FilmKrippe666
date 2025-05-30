@@ -1,22 +1,19 @@
-## Hi there 👋
-
 <!--
 **FilmKrippe666/FilmKrippe666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Jannis</h3>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A hobby developer from Germany</h3>
 
-- 🔭 I’m currently working on [Reventox.net](https://reventox.net)
+- 🔭 I’m currently working on some Minecraft Servers
 
-- 💬 Ask me about **Java, Rust, C#, Kotlin or Go**
+- 💬 Ask me about **Java, HTML, CSS or JavaScript**
 
 <!--
 -  🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -24,9 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vertraxumtes69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vertraxumtes69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vertraxumtes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vertraxumtes" height="30" width="40" /></a>
-<a href="https://discord.gg/EDS4EhAFsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EDS4EhAFsy" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EDS4EhAFsy" height="30" width="40" /><h3>jannisfun</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
