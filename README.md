@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on some Minecraft Servers
 
+<!--
 - 💬 Ask me about **Java, HTML, CSS or JavaScript**
+-->
 
 <!--
 -  🌱 I’m currently learning ...
