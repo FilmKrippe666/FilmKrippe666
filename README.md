@@ -6,7 +6,7 @@
 <h3 align="center">I'm Jannis</h3>
 <h3 align="center">A Developer from Germany</h3>
 
-- 🔭 I’m currently working on some Minecraft Plugins
+- 🔭 I’m currently working on some Minecraft Projects
 
 <!--
 -  🌱 I’m currently learning ...
