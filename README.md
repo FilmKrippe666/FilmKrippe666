@@ -6,7 +6,7 @@
 <h3 align="center">I'm Jannis</h3>
 <h3 align="center">A Developer from Germany</h3>
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning nothing
 - 🔭 I’m currently working on nothing...
 
 <!--
