@@ -2,7 +2,9 @@
 **FilmKrippe666/FilmKrippe666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="#"><img alt="Jannis" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jannis&fontAlignY=35&fontSize=50&desc=Just%20a%20lazy%20guy&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
+<a href="#">
+  <img alt="Jannis" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jannis&fontAlignY=35&fontSize=50&desc=Just%20a%20lazy%20guy&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%">
+</a>
 
 <div align="center">Hello Person sniffing around my profile</div>
 <br>
